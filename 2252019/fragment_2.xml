@@ -99,6 +99,7 @@
                         <L7p:ExtraHeaders nameValuePairArray="included"/>
                         <L7p:HttpStatus stringValue="405"/>
                     </L7p:CustomizeErrorResponse>
+                    <L7p:RaiseError/>
                 </wsp:All>
             </wsp:OneOrMore>
         </wsp:All>
